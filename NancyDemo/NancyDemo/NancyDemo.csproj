@@ -60,6 +60,7 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\logo.png" />
     <Content Include="Content\nancy-logo.png" />
     <Content Include="icon.png" />
     <Content Include="Web.config">
